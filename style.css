@@ -1,0 +1,122 @@
+body {
+    text-align: center;
+}
+
+.welcome {
+    background-color: #FF4081;
+    margin: 8px auto;
+}
+
+img {
+    width: 450px;
+    height: 400px;
+    border-radius: 50%;
+}
+
+#about {
+    background-color: #F50057;
+    font-size: 18px;
+}
+
+.line {
+    height: 6px;
+    width: 300px;
+    background-color: #212121;
+    margin: 8px auto;
+}
+
+h3 {
+    font-size: 20px;
+    color: black;
+    text-shadow: 1px 2px #424242;
+}
+
+.lines {
+    height: 6px;
+    width: 150px;
+    background-color: #212121;
+    margin: 8px auto;
+}
+
+h1 {
+    text-shadow: 1px 2px #616161;
+    font-size: 30px;
+}
+
+h2 {
+    font-size: 25px;
+    text-shadow: 1px 2px #424242;
+}
+
+h5 {
+    font-size: 15px;
+    color: black;
+}
+
+
+.menu {
+    list-style: none;
+    font-family: fantasy;
+    position: fixed;
+    top: 0px;
+    cursor: pointer;
+    height: 8px auto;
+    width: 100%;
+    z-index: 10;
+    margin-top: 0px;
+    background-color: black;
+}
+
+#rating {
+    background-color: darksalmon;
+}
+
+.link {
+    color: beige;
+    padding-right: 30px;
+    padding-left: 30px;
+    font-family: sans-serif;
+    font-size: 20px;
+    display: inline;
+    color:floralwhite !important;
+}
+.link:hover {
+    font-size: 25px;
+    text-decoration: underline;
+}
+
+
+html {
+    scroll-behavior: smooth;
+}
+
+#inspiration {
+    background-color: coral;
+}
+
+.jkrowling {
+    height: 200px;
+    width: 250px;
+}
+img{
+    transition: transform .2s;
+}
+img:hover{
+    transform: scale(0.9);
+}
+#contact {
+    background-color:bisque;
+}
+
+.Email a {
+    Color: black;
+    text-shadow: none;
+}
+
+#contact iframe {
+    width: 100%;
+}
+
+.Email h3 {
+    display: inline;
+}
